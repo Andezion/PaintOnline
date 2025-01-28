@@ -2,24 +2,24 @@
 Реализация многопользовательского синхронного рисования 
 
 ## Пошёл контент
-* [Общая информация](#general-info)
-* [Демонстрация](#gameplay)
-* [Технологии](#technologies)
-* [Особенности](#features)
-* [Вдохновение](#inspiration)
-* [Как установить](#setup)
+* [General info](#general-info)
+* [Demonstration](#demonstration)
+* [Technologies](#technologies)
+* [Features](#features)
+* [Inspiration](#inspiration)
+* [Setup](#setup)
 ---
 
-## Общая информация
+## General info
 ---
-## Демонстрация
+## Demonstration
 ---
-## Технологии
+## Technologies
 ---
-## Особенности
+## Features
 ---
-## Вдохновение
+## Inspiration
 ---
-## Как установить
+## Setup
 ---
 
